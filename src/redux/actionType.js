@@ -1,0 +1,11 @@
+export default {
+    SET_USER_DATA: 'SET_USER_DATA',
+    SET_GUEST: 'SET_GUEST',
+    SET_VALIDATION_ERROR: 'SET_VALIDATION_ERROR',
+    SET_IS_FETCHING: 'SET_IS_FETCHING',
+    //
+    // action types for sagas
+    EDIT_FILE: 'EDIT_FILE',
+    AUTH: 'AUTH',
+    DELETE_FILE: "DELETE_FILE"
+}
